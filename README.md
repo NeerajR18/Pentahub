@@ -5,6 +5,13 @@ The Hub was made using EasyEDA for PCB design and Autodesk Fusion for CAD. It ha
 The Hub was made as a starter project into more complex designs in both CAD and PCB design. The case is a snap case with rectangular tabs.
 
 This was made for Hack Club Fallout.
+
+# What is a USB Hub?
+A USB Hub is a device used to expand a single USB Port into more USB ports so that more devices can be connected.
+
+A USB Hub is mostly used with laptops and devices which lack enough USB ports.
+
+The Hexahub can be used as a plug and play connection using the USB-C port to connect upto 4 USB-A devices together.
 # CAD
 
 - Full Assembly
