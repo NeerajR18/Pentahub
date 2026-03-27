@@ -4,6 +4,7 @@ A USB Hub with 4 USB A Ports and 1 USB C Port for upstream.
 The Hub was made using EasyEDA for PCB design and Autodesk Fusion for CAD. It has 4 USB-A Ports in line with 1 USB-C port for upstream in a hexagonal shape PCB. It has a 2 part case,
 The Hub was made as a starter project into more complex designs in both CAD and PCB design. The case is a snap case with rectangular tabs.
 
+This was made for Hack Club Fallout.
 # CAD
 
 - Full Assembly
