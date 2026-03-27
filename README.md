@@ -1,3 +1,6 @@
+
+<img width="1410" height="2000" alt="Hexa hub" src="https://github.com/user-attachments/assets/a901f69a-14d6-428e-aa1c-fe7294a4ca51" />
+
 # Hexahub
 A USB Hub with 4 USB A Ports and 1 USB C Port for upstream.
 
