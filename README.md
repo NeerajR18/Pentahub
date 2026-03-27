@@ -1,23 +1,24 @@
 # Pentahub
 A USB Hub with 4 USB A Ports and 1 USB C Port for upstream.
 
-The Hub was made using EasyEDA for PCB design and Autodesk Fusion for CAD. The Hub has 4 USB-A Ports in line with 1 USB-C port for upstream in a pentagon shaped PCB.
-The Hub was made as a starter project into more complex designs in both CAD and PCB design. The case is a snap case with holes of diameter 2.8 mm and 0.8mm along with pegs of 3mm and 1mm respectively.
-
+The Hub was made using EasyEDA for PCB design and Autodesk Fusion for CAD. It has 4 USB-A Ports in line with 1 USB-C port for upstream in a hexagonal shape PCB. It has a 2 part case,
+The Hub was made as a starter project into more complex designs in both CAD and PCB design. The case is a snap case with rectangular tabs.
 
 # CAD
 
 - Full Assembly
 
-  <img width="780" height="496" alt="image" src="https://github.com/user-attachments/assets/ccdfd8e6-fe73-4fe9-b171-3f7b7a1ae0cb" />
+  <img width="969" height="652" alt="image" src="https://github.com/user-attachments/assets/162f30fd-fc74-4b75-823c-e591cdd8af28" />
 
-- Top
+- Open view
   
-  <img width="686" height="424" alt="image" src="https://github.com/user-attachments/assets/a4001966-a2c8-4070-8f42-f99aae1364ec" />
+  <img width="967" height="779" alt="image" src="https://github.com/user-attachments/assets/86ef69a0-57f6-4601-9e46-a0d8dc4207cb" />
 
-- Bottom
+
+- Case without PCB
   
-  <img width="712" height="491" alt="image" src="https://github.com/user-attachments/assets/5fe4583c-dbd0-4180-8195-85808be845f0" />
+  <img width="951" height="774" alt="image" src="https://github.com/user-attachments/assets/cc58c13d-0c1c-4634-bcf3-42fb550fb116" />
+
 
 # PCB Design
 
@@ -36,3 +37,13 @@ The Hub was made as a starter project into more complex designs in both CAD and 
 - 3D view of PCB
   
    <img width="858" height="664" alt="image" src="https://github.com/user-attachments/assets/608bddeb-4107-4b5f-8b9e-8f5b6e914fc3" />
+
+# Bill Of Materials
+|Item                    |Qty. |Price (USD)|Ext. (USD)|Link                                                                                                                              |
+|------------------------|-----|-----------|----------|----------------------------------------------------------------------------------------------------------------------------------|
+| C668591                | 10  |  0.0627   | 0.63     | https://www.lcsc.com/product-detail/C668591.html                                                                                 |
+| C2765186               | 20  |  0.0617   | 1.23     | https://www.lcsc.com/product-detail/C2765186.html                                                                                |
+| C2684433               | 5   |  0.2347   | 1.17     | https://www.lcsc.com/product-detail/C2684433.html                                                                                |
+| C2907044               | 100 |  0.0012   | 0.12     | https://www.lcsc.com/product-detail/C2907044.html                                                                                |
+| C106248                | 50  |   0.0092  | 0.46     | (https://www.lcsc.com/product-detail/C106248.html                                                                                | 
+
